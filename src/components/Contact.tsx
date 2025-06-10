@@ -54,7 +54,7 @@ const Contact = () => {
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Ready to transform your space? Contact us for a free, no-obligation quote. 
-            We're here to help bring your vision to life.
+            We're here to help bring your vision to life😊. 
           </p>
         </div>
 
